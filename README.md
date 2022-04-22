@@ -5,6 +5,6 @@ languages :
   ~ php/sql
 
 discord : イエス#9944
-twitter : zeltroxxx
+~ twitter : zeltroxxx
 
 🥦
